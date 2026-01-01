@@ -61,3 +61,13 @@ A Flask REST API for querying Project Gutenberg books from a PostgreSQL database
 
    The API will be available at `http://localhost:5000`
 
+## Live API Deployment
+
+The API is deployed and publicly accessible here:
+
+🔗 https://gutenberg-api-vercel.onrender.com/
+
+### Example Endpoints
+
+- Root: https://gutenberg-api-vercel.onrender.com/
+- Books API: https://gutenberg-api-vercel.onrender.com/api/books
